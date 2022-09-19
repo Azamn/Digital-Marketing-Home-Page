@@ -2,7 +2,7 @@
 
 I'm Azam Shaikh, a laravel backend Developer, and Passionate to become a Full Stack Developer.
 
-## Project Name : **Law Home Page**
+## Project Name : **Digital Marketing Home Page**
 
 In this project i have created a Digital Marketing Home Page. And i have learnt a lot of things of like how to use flex and how css makes life easier, and i have also learnt about positions like absolute and relative in this project.
 
