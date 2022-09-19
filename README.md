@@ -23,4 +23,4 @@ In this project i have created a Digital Marketing Home Page. And i have learnt 
 
 ### You can Check it Live on Below Link :
 
-[Project Live Link](https://azam-law-home-page.netlify.app/)
+[Project Live Link](https://azam-digital-marketing-home-page.netlify.app/)
